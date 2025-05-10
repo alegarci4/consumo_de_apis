@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Forms\\Clase_3Mayo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|c:\\forms\\clase_3mayo\\clase_3mayo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|c:\\forms\\clase_3mayo\\clase_3mayo\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|c:\\forms\\clase_3mayo\\clase_3mayo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|c:\\forms\\clase_3mayo\\clase_3mayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|C:\\Forms\\Clase_3Mayo\\clase_3mayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|c:\\forms\\clase_3mayo\\clase_3mayo\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|c:\\forms\\clase_3mayo\\clase_3mayo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|C:\\Forms\\Clase_3Mayo\\clase_3mayo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3A9681A-BEBD-4720-BA6E-47F924AE5B33}|Clase_3Mayo\\Clase_3Mayo.csproj|solutionrelative:clase_3mayo\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 125,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form3.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form3.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase_3Mayo\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:02:12.614Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form2.resx",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form2.resx",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form2.resx",
+              "RelativeToolTip": "Clase_3Mayo\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-10T01:49:49.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form3.Designer.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form3.Designer.cs",
+              "RelativeToolTip": "Clase_3Mayo\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:32:05.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form3.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form3.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form3.cs",
+              "RelativeToolTip": "Clase_3Mayo\\Form3.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwv0wAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:21:14.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form2.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form2.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form2.cs",
+              "RelativeToolTip": "Clase_3Mayo\\Form2.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:29:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form1.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form1.cs",
+              "RelativeToolTip": "Clase_3Mayo\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:26:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form2.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form2.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase_3Mayo\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:42:22.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase_3Mayo\\Form1.cs",
+              "ToolTip": "C:\\Forms\\Clase_3Mayo\\Clase_3Mayo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase_3Mayo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:36:17.619Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
